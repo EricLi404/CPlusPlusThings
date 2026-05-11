@@ -5,3 +5,7 @@ bazel-out
 bazel-testlogs
 bazel-cplusplus_bazel
 .vscode
+/.clwb/.idea/.gitignore
+/.clwb/.idea/git_toolbox_blame.xml
+/.clwb/.idea/vcs.xml
+/.clwb/.bazelproject
